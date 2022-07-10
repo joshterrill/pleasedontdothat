@@ -1,0 +1,27 @@
+{
+  "name": "pleasedontdothat",
+  "version": "0.0.1",
+  "description": " a client-side suite of javascript API's that prevent users from taking certain actions on your site such as right clicking, printing, ctrl+c, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshterrill/pleasedontdothat.git"
+  },
+  "keywords": [
+    "prevent",
+    "stop",
+    "copy",
+    "paste",
+    "print",
+    "right-click"
+  ],
+  "author": "Josh Terrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshterrill/pleasedontdothat/issues"
+  },
+  "homepage": "https://github.com/joshterrill/pleasedontdothat#readme"
+}
